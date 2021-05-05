@@ -400,7 +400,7 @@ section:nth-child(2n + 1) {
 
 .portfolio-image-container:hover .portfolio-details{
 /*    or==>> .portfolio-image-container .portfolio-details:hover{ <<== same thing*/
-    background-color: #80808078;
+    background-color: #808080bd;
     color: white;
 }
 
@@ -605,6 +605,10 @@ button:focus {
     .nav-menu {
         display: none;
     } 
+
+    .horizontal-list li{
+        margin: 0px 4px 4px 0px;
+    }
 }
 
 
