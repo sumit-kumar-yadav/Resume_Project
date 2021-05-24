@@ -570,6 +570,9 @@ button:focus {
 .mb-light-purple {
     background-color: #93738c;
 }
+.mb-yellow{
+    background-color: rgb(129, 161, 10);
+}
 
 
 
@@ -588,6 +591,18 @@ button:focus {
 .fifty-percent {
     height: inherit;
     width: 50%;
+}
+.seventy-percent{
+    height: inherit;
+    width: 70%;
+}
+.seventy-five-percent{
+    height: inherit;
+    width: 75%;
+}
+.sixty-percent{
+    height: inherit;
+    width: 60%;
 }
 
 ::placeholder{
