@@ -375,6 +375,9 @@ section:nth-child(2n + 1) {
   text-align: center;
   padding: 10px;
 }
+.portfolio-details>p{
+  margin: 0px;
+}
 
 .portfolio-image-container:hover {
   box-shadow: 0 0 20px #74adc8;
