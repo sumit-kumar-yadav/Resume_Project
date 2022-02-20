@@ -373,10 +373,15 @@ section:nth-child(2n + 1) {
   height: 100%;
   color: transparent;
   text-align: center;
-  padding: 10px;
+  padding: 0px;
 }
 .portfolio-details>p{
+  width: 100%;
+  height: 100%;
   margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .portfolio-image-container:hover {
@@ -543,6 +548,12 @@ button:focus {
 }
 .mb-yellow {
   background-color: rgb(129, 161, 10);
+}
+.mb-mediumvioletred{
+  background-color: mediumvioletred;
+}
+.mb-black{
+  background-color: black;
 }
 
 /*Percentage Classes */
